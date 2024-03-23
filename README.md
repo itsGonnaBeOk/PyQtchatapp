@@ -1,4 +1,4 @@
-basic chat application with socket programming and ui by PyQt library.
+basic chat application with socket programming, multithreading and ui by PyQt library.
 you need to start server first.
 then run chatui file and choose a simple username.
 to find other users and send messages to them, you need to search in usernames.
